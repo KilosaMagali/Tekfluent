@@ -1,0 +1,188 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<header>
+    <div class="carousel fade-carousel slide" data-ride="carousel" data-interval="4000" id="bs-carousel">
+        <!-- Overlay -->
+        <div class="overlay"></div>
+
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#bs-carousel" data-slide-to="0" class="active"></li>
+            <li data-target="#bs-carousel" data-slide-to="1"></li>
+            <li data-target="#bs-carousel" data-slide-to="2"></li>
+            <li data-target="#bs-carousel" data-slide-to="3"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+            <div class="item slides active">
+                <div class="slide-1"></div>
+                <div class="hero">
+                    <hgroup>
+                        <h1>Excellence</h1>
+                        <h1>Innovation</h1>
+                        <h1>Expertise</h1>
+                    </hgroup>
+                    <button class="btn btn-hero btn-lg" role="button">Talk to Us</button>
+                </div>
+            </div>
+            <div class="item slides">
+                <div class="slide-2"></div>
+                <div class="hero">
+                    <hgroup>
+                        <h1>Mobile Apps</h1>
+                        <h3>Design | Development | Maintenance</h3>
+                    </hgroup>
+                    <button class="btn btn-hero btn-lg" role="button">Talk to Us</button>
+                </div>
+            </div>
+            <div class="item slides">
+                <div class="slide-3"></div>
+                <div class="hero">
+                    <hgroup>
+                        <h1>Websites</h1>
+                        <h3>Design | Development | Maintenance</h3>
+                    </hgroup>
+                    
+                    <button class="btn btn-hero btn-lg" role="button">Let's Talk</button>
+                </div>
+            </div>
+            <div class="item slides">
+                <div class="slide-4"></div>
+                <div class="hero">
+                    <hgroup>
+                        <h1>Enterprise Apps</h1>
+                        <h3>Design | Development | Maintenance</h3>
+                    </hgroup>
+                    <button class="btn btn-hero btn-lg" role="button">Talk to Us</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    @*<div class="container">
+        <div class="intro-text">
+            <div class="intro-lead-in">Websites | Mobile Apps | Entreprise Apps</div>
+            <div class="intro-heading">
+                We deliver modern software solutions using advanced technologies
+            </div>
+            <a href="#services" class="page-scroll btn btn-xl">Talk to us</a>
+
+        </div>
+    </div>*@
+</header>
+
+<section id="services">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Services</h2>
+                <h3 class="section-subheading text-muted">Our technology fluency and expertise, Your Vision</h3>
+            </div>
+        </div>
+        <div class="row text-center">
+            <div class="col-md-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-mobile fa-stack-1x fa-inverse"></i>
+                </span>
+                <h4 class="service-heading">Full-Lifecycle Mobile Apps Development</h4>
+                <p class="text-muted">
+                    Mobile Apps description
+                </p>
+            </div>
+            <div class="col-md-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-cloud fa-stack-1x fa-inverse"></i>
+                </span>
+                <h4 class="service-heading">Websites Development</h4>
+                <p class="text-muted">Mobile apps description</p>
+            </div>
+            <div class="col-md-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-users fa-stack-1x fa-inverse"></i>
+                </span>
+                <h4 class="service-heading">Enterprise Apps Development</h4>
+                <p class="text-muted">Enterprise Apps description</p>
+            </div>
+            <div class="col-md-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
+                </span>
+                <h4 class="service-heading">Retail applications</h4>
+                <p class="text-muted">POS description</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="footer">
+    <section class="main-section contact" id="contact">
+
+        <div class="row">
+            <div class="col-lg-6 col-sm-7">
+                <div class="contact-info-box address clearfix">
+                    <h3><i class="icon-map-marker"></i>Address:</h3>
+                    <span>14 Avenue du Général de Gaulle<br>Blagnac, 31700.</span>
+                </div>
+                <div class="contact-info-box phone clearfix">
+                    <h3><i class="fa-phone"></i>Phone:</h3>
+                    <span>+33 758 541 290</span>
+                </div>
+                <div class="contact-info-box email clearfix">
+                    <h3><i class="fa-pencil"></i>email:</h3>
+                    <span>tekfluent@gmail.com.com</span>
+                </div>
+                <div class="contact-info-box hours clearfix">
+                    <h3><i class="fa-clock-o"></i>Hours:</h3>
+                    <span>
+                        <strong>Monday - Friday:</strong> 9am - 9pm<br>
+                        <strong>Saturday - Sunday:</strong> 10am - 4pm
+                    </span>
+                </div>
+                <ul class="social-link">
+                    <li class="twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li class="facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+                    <li class="instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+                    <li class="googleplus"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                </ul>
+            </div>
+            <div class="col-lg-6 col-sm-5">
+                <div class="form">
+
+                    <div id="sendmessage">Your message has been sent. Thank you!</div>
+                    <div id="errormessage"></div>
+                    <form action="" method="post" role="form" class="contactForm">
+                        <div class="form-group">
+                            <input name="name" class="form-control input-text" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" type="text">
+                            <div class="validation"></div>
+                        </div>
+                        <div class="form-group">
+                            <input class="form-control input-text" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" type="email">
+                            <div class="validation"></div>
+                        </div>
+                        <div class="form-group">
+                            <input class="form-control input-text" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" type="text">
+                            <div class="validation"></div>
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control input-text text-area" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                            <div class="validation"></div>
+                        </div>
+
+                        <div class="text-center"><button type="submit" class="input-btn">Send Message</button></div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+

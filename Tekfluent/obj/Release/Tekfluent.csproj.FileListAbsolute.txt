@@ -1,0 +1,52 @@
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\Tekfluent.dll.config
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\Tekfluent.dll
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\Tekfluent.pdb
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\Antlr3.Runtime.dll
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\Newtonsoft.Json.dll
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\System.Web.Helpers.dll
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\System.Web.Mvc.dll
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\System.Web.Optimization.dll
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\System.Web.Razor.dll
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\System.Web.WebPages.dll
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\System.Web.WebPages.Razor.dll
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\WebGrease.dll
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\System.Web.Helpers.xml
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\System.Web.Mvc.xml
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\System.Web.Optimization.xml
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\System.Web.Razor.xml
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\System.Web.WebPages.xml
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\System.Web.WebPages.Razor.xml
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\Antlr3.Runtime.pdb
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\bin\Newtonsoft.Json.xml
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\obj\Release\Tekfluent.dll
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\obj\Release\Tekfluent.pdb
+C:\Users\kilosamagali\Source\Repos\GigHub\Tekfluent\Tekfluent\obj\Release\Tekfluent.csprojResolveAssemblyReference.cache
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\Tekfluent.dll.config
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\Tekfluent.dll
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\Tekfluent.pdb
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\Antlr3.Runtime.dll
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\Newtonsoft.Json.dll
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\System.Web.Helpers.dll
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\System.Web.Mvc.dll
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\System.Web.Optimization.dll
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\System.Web.Razor.dll
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\System.Web.WebPages.dll
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\System.Web.WebPages.Razor.dll
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\WebGrease.dll
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\System.Web.Helpers.xml
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\System.Web.Mvc.xml
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\System.Web.Optimization.xml
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\System.Web.Razor.xml
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\System.Web.WebPages.xml
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\System.Web.WebPages.Razor.xml
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\Antlr3.Runtime.pdb
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\bin\Newtonsoft.Json.xml
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\obj\Release\Tekfluent.csprojResolveAssemblyReference.cache
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\obj\Release\Tekfluent.dll
+C:\Users\kilosamagali\Documents\Visual Studio 2015\Projects\Tekfluent\Tekfluent\obj\Release\Tekfluent.pdb
