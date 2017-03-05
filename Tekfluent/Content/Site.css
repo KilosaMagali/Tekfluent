@@ -515,6 +515,17 @@ Image credits: unsplash.com
 	display:block;
 }
 
+#contact {
+   padding: 100px 0px 50px 0px;
+}
+
+/*Footer*/
+
+#footer{
+    background-color: #7D1935;
+    padding: 50px 0px 50px 0px;
+}
+
 
 /*Services*/
 .service-heading {
@@ -524,5 +535,22 @@ Image credits: unsplash.com
 
 #services{
     background-color: #f7f7f7;
-    padding: 100px 0px 50px 0px;
+    padding: 100px 0px 200px 0px;
 }
+
+.service-box {
+	background: #fff;
+	border: 1px solid #f7f7f7;
+	padding: 20px;
+}
+
+.service-icon {
+	margin-bottom: 20px;
+}	
+
+.btn-skin {
+    color: #fff;
+    background-color: #1bbca3;
+    border-color: #1bbca3;
+}
+
